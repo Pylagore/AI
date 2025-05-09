@@ -7,3 +7,5 @@ matplotlib
 seaborn
 plotly
 loguru
+imbalanced-learn
+
