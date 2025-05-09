@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+dill
+matplotlib
+seaborn
+plotly
+scipy
+loguru
+missingno
+pathlib
+imblearn
+sklearn
+io
