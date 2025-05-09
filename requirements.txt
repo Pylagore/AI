@@ -6,8 +6,4 @@ dill
 matplotlib
 seaborn
 plotly
-scipy
-loguru
-missingno
-imblearn-learn
 
