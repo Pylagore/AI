@@ -9,7 +9,5 @@ plotly
 scipy
 loguru
 missingno
-pathlib
-imblearn
-sklearn
-io
+imblearn-learn
+
