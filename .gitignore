@@ -1,0 +1,19 @@
+# Masquer les fichiers compilés Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Dossiers système
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels
+.env/
+venv/
+ENV/
+
+# Fichiers temporaires
+*.log
+
+# Fichiers spécifiques à Streamlit
+*.streamlit/secrets.toml
